@@ -36,5 +36,4 @@
 - About how many terrestrial (Earth) days exist in a Martian year? 
 
 6. Exported the DataFrame to a CSV file.
-### Acknowlegment
-Mentor Abbas helped me answer the 5th question of part 2 of the assignment. The code gives an exact answer to the question according to the dataset provided, instead of just a visual estimate of the count of the terrestrial days in a Martian year. 
+
